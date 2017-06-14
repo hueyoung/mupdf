@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\project_xc\branch_2\UXCJF\mupdf\src\main\assets"/><source path="F:\project_xc\branch_2\UXCJF\mupdf\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="F:\project_xc\branch_2\UXCJF\mupdf\src\release\assets"/></dataSet></merger>

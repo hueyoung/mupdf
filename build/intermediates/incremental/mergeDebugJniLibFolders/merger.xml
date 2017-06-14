@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\project_xc\branch_2\UXCJF\mupdf\libs"><file name="armeabi-v7a/libmupdf.so" path="F:\project_xc\branch_2\UXCJF\mupdf\libs\armeabi-v7a\libmupdf.so"/></source></dataSet><dataSet config="debug"><source path="F:\project_xc\branch_2\UXCJF\mupdf\src\debug\jniLibs"/></dataSet></merger>
